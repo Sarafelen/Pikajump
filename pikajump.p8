@@ -11,6 +11,8 @@ __lua__
 -- top-solid ground
 -- better duping
 
+-- hello
+
 -- config: num_players 1 or 2
 num_players = 1
 corrupt_mode = false
